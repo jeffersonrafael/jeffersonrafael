@@ -39,7 +39,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/jeffersonrafael/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/jeffersonrafael/jeffersonrafael/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
