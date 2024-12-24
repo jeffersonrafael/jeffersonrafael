@@ -14,24 +14,25 @@ Interested in my work? Contact me on social media.
 
 <div align="left">
   <a href="https://www.linkedin.com/in/jefferson-rafael" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="60" alt="linkedin logo">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="48" alt="linkedin logo">
   </a>
-  <img width="20">
+  <img width="12">
   
   <a href="https://www.instagram.com/jeffersonrafa_/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="60" alt="instagram logo">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="48" alt="instagram logo">
   </a>
-  <img width="20">
+  <img width="12">
   
   <a href="https://www.youtube.com/@Gradiente_Descendente" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="60" alt="youtube logo">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="48" alt="youtube logo">
   </a>
-  <img width="20">
+  <img width="12">
   
   <a href="https://t.me/jefferson_rafael2" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="60" alt="telegram logo">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="48" alt="telegram logo">
   </a>
-</div><img width="20">
+  <img width="12">
+</div>
 
 
 ###
