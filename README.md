@@ -8,7 +8,7 @@ Hello! I'm Jefferson Rafael, a Physics graduate from UFRJ, a data scientist, and
 
 ###
 
-# **Social Media**
+# 📱 **Social Media**
 
 Interested in my work? Contact me on social media.
 
