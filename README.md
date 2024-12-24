@@ -3,7 +3,7 @@
 ###
 
 <p>
-Hello! I'm Jefferson Rafael, a Physics graduate from UFRJ, a data scientist, and leader of the UFRJ competitive data science league. My passion for understanding the world and creating innovative solutions led me to the field of data science and machine learning, transforming data into strategic decisions with real impact. My <a href="https://github.com/jeffersonrafael" target="_blank" style="color: orange; text-decoration: underline;">CV</a> and my <a href="https://linktr.ee/jefferson_rafael" target="_blank" style="color: orange; text-decoration: underline;">contact</a>.
+Hello! I'm Jefferson Rafael, a Physics graduate from UFRJ, a data scientist and leader of the UFRJ competitive data science league. My passion for understanding the world and creating innovative solutions led me to the field of data science and machine learning, transforming data into strategic decisions with real impact. My <a href="https://github.com/jeffersonrafael" target="_blank" style="color: orange; text-decoration: underline;">CV</a> and my <a href="https://linktr.ee/jefferson_rafael" target="_blank" style="color: orange; text-decoration: underline;">contact</a>.
 </p>
 
 ###
