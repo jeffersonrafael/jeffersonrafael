@@ -46,7 +46,7 @@ Interested in my work? Contact me on social media.
 
 # 👨‍💻 **Technologies**
 
-Throughout my journey, I have accumulated **experiences and achievements** using **various tools**. Below are listed some tools.
+Throughout my journey, I have accumulated **experiences and achievements** using **various tools**. Below are listed **some tools**.
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo">
