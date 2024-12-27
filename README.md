@@ -1,4 +1,4 @@
-<h1 align="left">Hey! 😄👋 Nice to see you here, welcome.</h1>
+<h1 align="left">Hey! 👋 Nice to see you here, welcome.</h1>
 
 ###
 
@@ -8,7 +8,9 @@ Hello! I'm Jefferson Rafael, a Physics graduate from UFRJ, a data scientist and 
 
 ###
 
-# 👨‍💻 **Technologies**
+---
+
+# 👨‍💻 **Technologies and Tools**
 
 Throughout my journey, I have gained **valuable experience** and **achieved success** with the help of various tools. The following are tools **I regularly employ in my work:**
 
@@ -20,6 +22,9 @@ Throughout my journey, I have gained **valuable experience** and **achieved succ
   <img width="12">
   
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="60" alt="Power BI logo">
+  <img width="12">
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" height="60" alt="Excel logo">
   <img width="12">
   
   <img src="https://skillicons.dev/icons?i=tensorflow" height="60" alt="tensorflow logo">
@@ -58,6 +63,10 @@ Throughout my journey, I have gained **valuable experience** and **achieved succ
 </div>
 
 ###
+
+---
+
+# 📊 Stats Info
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=jeffersonrafael&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
